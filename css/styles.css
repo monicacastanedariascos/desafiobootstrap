@@ -42,7 +42,7 @@ header {
     background-color: rgb(10, 10, 10);
     width: 100%;
     display: flex;
-    justify-content: right;
+    justify-content: space-between;
     margin-bottom: 2px;
     border: 2px solid rgb(87, 86, 86);
 }
@@ -184,8 +184,14 @@ footer a i {
 }
 .titulos article {
     float:left;
-    width: 30%;
+    justify-content: center;
+    width: 70%;
     margin: 20px;
+}
+
+.titulos article span{
+    text-align: center;
+    float:right;
 }
 .titulos article img {
     width:250px;
