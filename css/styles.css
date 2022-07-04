@@ -222,50 +222,7 @@ footer a i {
 
 }
 
-.experiencia1 {
-    width: 100%;
-    display:flex;
-    justify-content:center;
-}
 
-.experiencia1 article span {
-    text-align: right;
-    color:white;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    float:left;
-    text-align:center;
-    margin: 10%;
-}
-
-.experiencia1 article img {
-    display:flex;
-    justify-content:center;
-    height: 200px;
-
-}
-
-.experiencia1 article img:hover{
-    transform: translate(2%);
-    opacity:0.5;
-}
-
-.experiencia2 article  {
-    text-align: center;
-    display:flex;
-    justify-content:center;
-    color:white;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-.experiencia2 article iframe {
-    width:100%;
-    margin-left: 10%;
-}
-
-.experiencia2 article p {
-    width: 100%;
-    margin-right:10%;
-}
 
 .hobbies {
     display: flex;

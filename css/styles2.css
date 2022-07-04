@@ -1,0 +1,47 @@
+.experiencia1 {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 3%;
+  margin-top: 3%;
+}
+.experiencia1 article {
+  border: solid 1px rgb(23, 22, 22);
+}
+.experiencia1 article span {
+  text-align: right;
+  color: white;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  float: left;
+  text-align: center;
+  margin: 10%;
+}
+.experiencia1 article img {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 200px;
+}
+.experiencia1 article img:hover {
+  transform: translate(2%);
+  opacity: 0.5;
+}
+
+.experiencia2 article {
+  text-align: center;
+  display: grid;
+  justify-content: center;
+  color: white;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+.experiencia2 article p {
+  width: 100%;
+  margin-right: 10%;
+}
+
+.video {
+  width: 100%;
+  border: 1px solid whitesmoke;
+}
+
+/*# sourceMappingURL=styles2.css.map */
